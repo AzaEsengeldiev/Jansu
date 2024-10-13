@@ -58,6 +58,11 @@ button {
 	font-size: 1rem;
 	color: #111;
 }
+button{
+	border:none;
+	border-radius: 20px;
+	padding: 20px;
+}
 
 @media screen and (max-width: 574px) {
 	.greetings {
